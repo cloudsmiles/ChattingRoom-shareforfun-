@@ -1,0 +1,47 @@
+[
+    {
+        "name": "matyhtf/swoole_framework",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/swoole/framework.git",
+            "reference": "c805ac9cba78f7e9ebf5ee1902a812e79c643f94"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/swoole/framework/zipball/c805ac9cba78f7e9ebf5ee1902a812e79c643f94",
+            "reference": "c805ac9cba78f7e9ebf5ee1902a812e79c643f94",
+            "shasum": ""
+        },
+        "time": "2016-03-23 03:31:40",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-0": {
+                "Swoole": "libs/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "LGPL"
+        ],
+        "authors": [
+            {
+                "name": "Tianfeng Han",
+                "email": "mikan.tenny@gmail.com"
+            }
+        ],
+        "description": "PHP Networking framework & Application Server.",
+        "homepage": "http://www.swoole.com/",
+        "keywords": [
+            "Socket",
+            "client",
+            "framework",
+            "library",
+            "server",
+            "webserver",
+            "websocket"
+        ]
+    }
+]
